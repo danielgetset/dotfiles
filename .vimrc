@@ -15,3 +15,5 @@ set noswapfile
 " SYNTAX
 syntax on
 colo elflord 
+" PASTING
+set pastetoggle=<F2>
