@@ -4,7 +4,7 @@ set autoindent
 set copyindent
 set shiftwidth=4 " number of spaces used for autoindent
 " SEARCH
-set hlsearch " highlight search terms
+set hlsearch " highlight search terms (use :nohs to temporarily clear search highlightning)
 set incsearch " show search matches as you type
 nmap <silent> ,/ :nohlsearch<CR>
 " HISTORY

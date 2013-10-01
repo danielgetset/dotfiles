@@ -1,3 +1,9 @@
+#
+# ~/.bash_profile
+#
+
+[[ -f ~/.bashrc ]] && . ~/.bashrc
+
 # VIM
 alias vi=vim
 # HIGHLIGHTNING
